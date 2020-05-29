@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "807560453839",
+    "firebase_url": "https://flutdemo-demo.firebaseio.com",
+    "project_id": "flutdemo-demo",
+    "storage_bucket": "flutdemo-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807560453839:android:2a646cfe52bc769c2f21ba",
+        "android_client_info": {
+          "package_name": "blackcrab.fdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807560453839-vjfi8skeahd5tcmv7k3ioi3kje307p3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "blackcrab.fdemo",
+            "certificate_hash": "00323d2b907a63c37f76a38eecde9b182acf98a7"
+          }
+        },
+        {
+          "client_id": "807560453839-n0irc61chrsltd5diqdjtkc8cmc4453p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeFXehOq5pfISMfpNKgW_cuiIAjFoUTp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807560453839-n0irc61chrsltd5diqdjtkc8cmc4453p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
